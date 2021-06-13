@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-silva-9485021b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-silva-9485021b2/" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="https://www.linkedin.com/in/victor-silva-9485021b2/" height="40" width="40" /></a>
+<a href="https://www.instagram.com/VictorSilva_0106/" target="blank"><img align="center" src="https://johnhoward.on.ca/peterborough/wp-content/uploads/sites/12/2021/03/instagram-logo-svg-vector-for-print.svg" alt="https://www.linkedin.com/in/victor-silva-9485021b2/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
