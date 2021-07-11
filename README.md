@@ -1,7 +1,6 @@
-<img align="right" min-width="300px" max-width="500px" width="500px" src="https://gjnetwork.jp/wp-content/uploads/2019/10/Finance.png" alt="imagem ilustrativa"/>
 
-<h1 align="left">Hi 👋, I'm Victor</h1>
-<h3 align="left">I am a High School/Technical student, I'm currently improving my front-end programming skills to one day become a great developer</h3>
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">I am a High School/Technical student, I'm currently improving my front-end programming skills to one day become a great developer</h3>
 <br>
 
 - 🌱 I’m currently learning **HTML CSS and JS in online courses**
