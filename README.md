@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">I am a High School/Technical student, I'm currently improving my front-end programming skills to one day become a great developer</h3>
+<h3 align="center">I am a High School/Technical student, I'm currently improving my programming skills to become a great developer</h3>
 <br>
 
-- 🌱 I’m currently learning **HTML CSS and JS in online courses**
+- 🌱 I’m currently learning **NodeJS and Rust**
 
-- 📫 How to reach me **victor470hugo@gmail.com**
+- 📫 How to reach me **victor470hugo@gmail.com or victor.silvaPC@hotmail.com**
 
 <br>
 
