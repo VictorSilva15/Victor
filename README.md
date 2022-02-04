@@ -27,9 +27,6 @@
   <img align="center" alt="victorsilva15-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="victorsilva15-Next" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="victorsilva15-NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   <img align="center" alt="victorsilva15-firebase" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain-wordmark.svg">
