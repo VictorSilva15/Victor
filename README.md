@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Victor</h1>
-<h3 align="center">I am a High School/Technical student, I'm currently improving my programming skills to become a great developer</h3>
+<h3 align="center">I am a High School/Technical student, I'm currently improving my programming skills to become a great Web Developer</h3>
 <br>
 
 - 🌱 I’m currently learning **NodeJS, React and Rust**
