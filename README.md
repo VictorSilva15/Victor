@@ -35,10 +35,6 @@
 
 ---
 
-<br>
-<div align="center">
-  <a href="https://github.com/victorsilva15" onmouseover="this.style.textDecoration='none'">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsilva15&show_icons=true&theme=light&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsilva15&layout=compact&langs_count=7&theme=lgiht"/>
-  </a>
-</div> 
+
+
+![Metrics](https://metrics.lecoq.io/victorsilva15?template=classic&isocalendar=1&languages=1&repositories=1&introduction=1&pagespeed=1&activity=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=omni&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=6&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FSao_Paulo)
