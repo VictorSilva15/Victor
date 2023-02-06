@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Victor</h1>
-<h3 align="center">I am a High School/Technical student, I'm currently improving my programming skills to become a great Web Developer</h3>
+<h3 align="center">I'm a student of System Analysis and Development and I'm currently improving my programming skills to become a great FullStack Developer</h3>
 <br>
 
-- 🌱 I’m currently learning **NodeJS, React and Rust**
+- 🌱 I’m currently learning **NodeJS, NextJS and React Native**
 
-- 📫 How to reach me **victor470hugo@gmail.com or victor.silvaPC@hotmail.com**
+- 📫 How to reach me **victor.silvaPC@hotmail.com or victor470hugo@gmail.com**
 
 <br/>
 
